@@ -1,0 +1,5 @@
+nsepy
+pandas
+pytelegrambotapi
+datetime
+pywin32
